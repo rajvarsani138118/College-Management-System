@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "69b6e4956113883fde64ebb9"
+  },
+  "employeeId": 544763,
+  "firstName": "Smit",
+  "lastName": "Patel",
+  "email": "smit@gmail.com",
+  "phone": "7359424340",
+  "profile": "1773593749862.JPG",
+  "address": "Triden",
+  "city": "RAJKOT",
+  "state": "Gujarat",
+  "pincode": "360004",
+  "country": "India",
+  "gender": "male",
+  "dob": {
+    "$date": "2000-05-05T00:00:00.000Z"
+  },
+  "designation": "ss",
+  "joiningDate": {
+    "$date": "2026-02-10T00:00:00.000Z"
+  },
+  "salary": 50000,
+  "status": "active",
+  "emergencyContact": {
+    "name": "RAJ VARSANI",
+    "relationship": "bro",
+    "phone": "9099586643"
+  },
+  "bloodGroup": "A+",
+  "branchId": {
+    "$oid": "69b6e32b6113883fde64eb8d"
+  },
+  "password": "$2b$10$WaoESwvx.CSeYleM2c1z5.YjzKzwnNgGKeTt5Qg1XsFiB5hqTSaGC",
+  "createdAt": {
+    "$date": "2026-03-15T16:55:49.943Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-15T16:55:49.943Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "69b6e3976113883fde64eb95"
+  },
+  "enrollmentNo": 897144,
+  "firstName": "Varsani",
+  "middleName": "Raj",
+  "lastName": "Hareshbhai",
+  "email": "897144@gmail.com",
+  "phone": "9099586643",
+  "semester": 3,
+  "branchId": {
+    "$oid": "69b6e32b6113883fde64eb8d"
+  },
+  "gender": "male",
+  "dob": {
+    "$date": "2006-07-07T00:00:00.000Z"
+  },
+  "address": "B-1102,TRIDAN HEIGHTS, OPP.GOL TRIO",
+  "city": "RAJKOT",
+  "state": "Gujarat",
+  "pincode": "360004",
+  "country": "India",
+  "profile": "1773593495162.JPG",
+  "status": "active",
+  "bloodGroup": "A+",
+  "emergencyContact": {
+    "name": "CHINTAN",
+    "relationship": "Brother",
+    "phone": "7046434340"
+  },
+  "password": "$2b$10$B6NbdZlnEEdNiKBccHZmxevEFxHIaNQoP.10Up/Ee3R8x9.ycPMki",
+  "createdAt": {
+    "$date": "2026-03-15T16:51:35.247Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-15T16:51:35.247Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d66ce677778bb4089adaee"
+  },
+  "enrollmentNo": 878449,
+  "firstName": "CHINTAN",
+  "middleName": "HARESHBHAI",
+  "lastName": "VARSANI",
+  "email": "878449@gmail.com",
+  "phone": "7046434340",
+  "semester": 3,
+  "branchId": {
+    "$oid": "69b6e32b6113883fde64eb8d"
+  },
+  "gender": "male",
+  "dob": {
+    "$date": "2004-10-26T00:00:00.000Z"
+  },
+  "address": "B-1102,TRIDAN HEIGHTS, OPP.GOL TRIO",
+  "city": "RAJKOT",
+  "state": "Gujarat",
+  "pincode": "360004",
+  "country": "India",
+  "profile": "1775660262486.png",
+  "status": "active",
+  "bloodGroup": "O+",
+  "emergencyContact": {
+    "name": "Varsani Raj Hareshbhai",
+    "relationship": "brothwe",
+    "phone": "09099586643"
+  },
+  "password": "$2b$10$Bn6CKVaoiWpmMIgNksLAyOjM9SB7yRjtACFV0P07.9r/tJwShkopK",
+  "createdAt": {
+    "$date": "2026-04-08T14:57:42.496Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-08T14:57:42.496Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "69b6e4ca6113883fde64ebc9"
+  },
+  "name": "DS",
+  "code": "03CE301",
+  "branch": {
+    "$oid": "69b6e32b6113883fde64eb8d"
+  },
+  "semester": 3,
+  "credits": 2,
+  "createdAt": {
+    "$date": "2026-03-15T16:56:42.678Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-15T16:56:42.678Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "69d66bef77778bb4089adac7"
+  },
+  "name": "Mid-2",
+  "date": {
+    "$date": "2026-04-15T00:00:00.000Z"
+  },
+  "semester": 3,
+  "examType": "mid",
+  "timetableLink": "1775660015900.pdf",
+  "totalMarks": 30,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d6714777778bb4089adb12"
+  },
+  "name": "knk",
+  "date": {
+    "$date": "2026-04-07T00:00:00.000Z"
+  },
+  "semester": 3,
+  "examType": "mid",
+  "timetableLink": "1775661383116.png",
+  "totalMarks": 30,
+  "__v": 0
+}]

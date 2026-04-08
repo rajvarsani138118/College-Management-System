@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "69b6e4af6113883fde64ebbf"
+  },
+  "title": "Holiday",
+  "description": "saudsunhu",
+  "type": "student",
+  "link": "",
+  "createdAt": {
+    "$date": "2026-03-15T16:56:15.512Z"
+  },
+  "__v": 0
+}]

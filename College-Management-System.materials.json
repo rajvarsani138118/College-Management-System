@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "69d66bce77778bb4089adab9"
+  },
+  "title": "Material",
+  "subject": {
+    "$oid": "69b6e4ca6113883fde64ebc9"
+  },
+  "faculty": {
+    "$oid": "69b6e4956113883fde64ebb9"
+  },
+  "file": "1775659982219.pdf",
+  "semester": 3,
+  "branch": {
+    "$oid": "69b6e32b6113883fde64eb8d"
+  },
+  "type": "syllabus",
+  "createdAt": {
+    "$date": "2026-04-08T14:53:02.232Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-08T14:53:02.232Z"
+  },
+  "__v": 0
+}]

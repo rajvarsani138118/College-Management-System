@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "69b6e2f92acc66d8203d55bb"
+  },
+  "employeeId": 123456,
+  "firstName": "Sundar",
+  "lastName": "Pichai",
+  "email": "admin@gmail.com",
+  "phone": "1234567890",
+  "profile": "Faculty_Profile_123456.jpg",
+  "address": "123 College Street",
+  "city": "College City",
+  "state": "State",
+  "pincode": "123456",
+  "country": "India",
+  "gender": "male",
+  "dob": {
+    "$date": "1990-01-01T00:00:00.000Z"
+  },
+  "designation": "System Administrator",
+  "joiningDate": {
+    "$date": "2026-03-15T16:48:57.385Z"
+  },
+  "salary": 50000,
+  "status": "active",
+  "isSuperAdmin": true,
+  "emergencyContact": {
+    "name": "Emergency Contact",
+    "relationship": "Spouse",
+    "phone": "9876543210"
+  },
+  "bloodGroup": "O+",
+  "password": "$2b$10$LQTWk3bQwqsYr6CBIwCpEO/c.3SAImp.mp8B7vyH./T008n0yyPEe",
+  "createdAt": {
+    "$date": "2026-03-15T16:48:57.392Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-15T16:48:57.392Z"
+  },
+  "__v": 0
+}]
